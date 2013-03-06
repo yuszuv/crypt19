@@ -7,8 +7,8 @@ Gem::Specification.new do |spec|
   spec.version       = "1.2.0"
   spec.authors       = ["jan"]
   spec.email         = ["jan@sternprodukt.de"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "description"
+  spec.summary       = "summery"
   spec.homepage      = ""
   spec.license       = "public domain"
 
