@@ -1,7 +1,6 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'crypt19/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "crypt19"
